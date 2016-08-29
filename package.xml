@@ -14,6 +14,7 @@
     <types>
         <members>Internal Zone</members>
         <name>Community</name>
+        <!-- Added Comment-->
     </types>
     <types>
         <members>standard__AppLauncher</members>
